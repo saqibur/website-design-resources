@@ -9,7 +9,7 @@ A collection of the few resources I use in all my websites.
 
 ## Fonts
 
-- A pixelated font: [Google Fonts](https://fonts.google.com/specimen/VT323)
+- A pixelated font: [VT323](https://fonts.google.com/specimen/VT323)
 - An easy-to-read sans-serif font: [Poppins](https://fonts.google.com/specimen/Poppins)
 - An excellent `monospace` font: [Fira Code](https://fonts.google.com/specimen/Fira+Code)
 
